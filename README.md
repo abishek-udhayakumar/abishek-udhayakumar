@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abishek Udhayakumar
 
-🚀 Full-stack developer from Chennai  
+🚀 Full-stack developer
 💬 Creator of PrimeChat (real-time chat app)  
 ⚡ Currently learning Next.js  
 
